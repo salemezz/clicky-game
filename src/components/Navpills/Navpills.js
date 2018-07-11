@@ -5,7 +5,7 @@ const Navpills = props => (
     <div>
         <ul className="nav nav-pills">
             <li className="nav-link"><a href="/">Marvel Clicky Game</a></li>
-            <li className="nav-link"
+            <li
                 className={props.message.indexOf('incorrectly') !== -1 ? 
                     "desc-incorrect" : 
                     props.message.indexOf('correctly') !== -1 ?
