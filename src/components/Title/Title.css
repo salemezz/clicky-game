@@ -1,0 +1,25 @@
+.titlebox {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 280px;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Bangers', cursive;
+    font-size: 1.30em;
+    color: red;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 0 0 5px #000;
+    margin-top: 25px;
+}
+
+.titlebox h1 {
+    margin-top: 90px;
+    font-size: 3.5em;
+}
+
+.titlebox p {
+    font-size: 1.8em;
+}
+

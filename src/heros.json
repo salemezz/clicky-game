@@ -1,0 +1,50 @@
+[
+    {
+        "hero": "Spider-Man",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/30/538cd33e15ab7/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Hulk",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Iron Man",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/a0/55b6a25e654e6/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Luke Cage",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/5/e0/537bb460046bd/standard_xlarge.jpg"
+    },
+    {
+        "hero": "She Hulk",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/7/20/527bb5d64599e/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Wolverine",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Captin America",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Dare Devil",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/90/537ba6d49472b/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Black Widow",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/10/537ba3f27a6e0/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Storm",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/40/526963dad214d/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Thor",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/5/a0/537bc7036ab02/standard_xlarge.jpg"
+    },
+    {
+        "hero": "Ms Marvel",
+        "image": "https://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40/standard_xlarge.jpg"
+    }
+]
